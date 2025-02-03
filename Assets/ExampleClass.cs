@@ -4,5 +4,5 @@ using UnityEngine;
 
 public class ExampleClass : MonoBehaviour
 {
-    private int number = 5;
+    private int number = 10;
 }
